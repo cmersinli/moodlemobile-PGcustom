@@ -7,10 +7,10 @@
         android-versionCode = "38001"
         ios-CFBundleVersion = "3.8.0.1"
         version   = "3.8.0">
-    <name>Moodle</name>
+    <name>Elearning SMK2</name>
 
     <description>
-        Moodle official app
+        E-Learning SMK Negeri 2 Pariaman
     </description>
 
     <author href="http://moodle.com" email="mobile@moodle.com">
